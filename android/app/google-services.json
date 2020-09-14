@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "382139879417",
+    "firebase_url": "https://novel-35f14.firebaseio.com",
+    "project_id": "novel-35f14",
+    "storage_bucket": "novel-35f14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382139879417:android:766b4f129509cb4f35b728",
+        "android_client_info": {
+          "package_name": "com.example.ActionApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382139879417-e80bjg92p9vpl4iba2kb6fbnuen5frp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeTjFLbo9fxzQxV2R3s-70vgCOl8jXy04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382139879417-e80bjg92p9vpl4iba2kb6fbnuen5frp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
